@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apparate-jpathplan.git.iml" filepath="$PROJECT_DIR$/apparate-jpathplan.git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../apparate-simulator/apparate-simulator-full.git.iml" filepath="$PROJECT_DIR$/../apparate-simulator/apparate-simulator-full.git.iml" />
+    </modules>
+  </component>
+</project>

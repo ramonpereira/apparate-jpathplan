@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="apparate-jpathplan.git:jar">
+    <output-path>$PROJECT_DIR$/../out/artifacts/apparate_jpathplan_git_jar</output-path>
+    <root id="archive" name="apparate-jpathplan.jar">
+      <element id="module-output" name="apparate-jpathplan.git" />
+    </root>
+  </artifact>
+</component>
